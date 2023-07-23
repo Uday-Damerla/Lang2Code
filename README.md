@@ -7,8 +7,6 @@ code and natural language descriptions to produce accurate and relevant code sni
 
 
 <br>
-<img src ="L2C-Demo-GIF.gif">
-
 
 
 
